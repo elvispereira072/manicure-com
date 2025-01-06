@@ -12,18 +12,23 @@ CSS3: Estilização customizada.
 TailwindCSS: Estilização responsiva e moderna.
 AOS (Animate On Scroll): Para animações suaves ao rolar a página.
 Google Fonts: Fontes personalizadas.
+
 Material Icons: Ícones visuais.
+
 🛠️ Recursos do Projeto
+
 Meta Tags Otimizadas para SEO: Maior visibilidade em mecanismos de busca.
 Design Responsivo: Compatível com dispositivos móveis, tablets e desktops.
 Efeitos de Animação: Elementos interativos e animados, como o ícone flutuante do WhatsApp.
 Navbar Dinâmica: Navegação adaptada para dispositivos móveis e desktop.
 Vídeo de Fundo: Adicionado na seção de destaque para criar uma experiência imersiva.
 Estilos Personalizados: Gradientes, botões interativos e animações customizadas.
+
 📂 Estrutura de Arquivos
 index.html: Página principal do site.
 style.css: Estilizações personalizadas.
 assets/: Contém imagens, ícones e outros recursos.
+
 🔧 Como Usar
 Clone o repositório:
 git clone https://github.com/usuario/ManicureStudio.git
